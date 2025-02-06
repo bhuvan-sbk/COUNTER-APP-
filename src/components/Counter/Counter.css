@@ -1,0 +1,30 @@
+.button-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.counter-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+}
+
+.increment {
+  background-color: #4caf50; /* Green */
+}
+
+.decrement {
+  background-color: #f44336; /* Red */
+}
+
+.reset {
+  background-color: #ff9800; /* Orange */
+}
+
+.log {
+  background-color: #2196f3; /* Blue */
+}

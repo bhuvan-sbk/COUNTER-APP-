@@ -1,0 +1,35 @@
+.editor-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ql-container {
+    min-height: 200px; /* Ensures the editor has enough space */
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .preview {
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 2px solid #ddd;
+  }
+  
+  .preview h3 {
+    text-align: center;
+    color: #555;
+  }
+  
+  .preview-content {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #fafafa;
+    min-height: 100px;
+  }
+  
