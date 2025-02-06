@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/COUNTER-APP-/static/css/main.f7ada252.css",
+    "main.js": "/COUNTER-APP-/static/js/main.e7163ed7.js",
+    "index.html": "/COUNTER-APP-/index.html",
+    "main.f7ada252.css.map": "/COUNTER-APP-/static/css/main.f7ada252.css.map",
+    "main.e7163ed7.js.map": "/COUNTER-APP-/static/js/main.e7163ed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7ada252.css",
+    "static/js/main.e7163ed7.js"
+  ]
+}
